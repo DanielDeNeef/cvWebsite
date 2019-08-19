@@ -1,0 +1,26 @@
+#menu{
+    background:rgb(34, 130, 185);
+    width: 100%;
+    top:0;
+    height: 40px;
+    position: fixed;
+    top:0px;
+    left:0;
+    right: 0;
+    text-align: center;
+}
+
+#menu li{
+    display: inline;
+    text-align: center;
+}
+
+#menu li a{
+    color:white;
+    text-decoration: none;
+    margin-left:10px;
+}
+
+#menu li a:hover{
+    font-weight: bold;
+}

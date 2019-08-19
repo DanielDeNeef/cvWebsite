@@ -1,0 +1,29 @@
+#skills{
+    background: rgb(29, 148, 216);
+    margin-top:50px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.skills{
+    display: inline-block;
+    width: 30%;
+    margin-left:2.5%;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+.progress{
+    background: white;
+    height:3px;
+    border-radius: 0px 50px 50px 0px;
+}
+
+.skills h2{
+    text-align: center;
+}
+
+.skills p{
+    margin-bottom: 5px;
+    margin-left:0px
+}

@@ -1,0 +1,12 @@
+#contact{
+    padding-top:150px;
+    background: whitesmoke;
+}
+
+#contact form{
+    display: block;
+}
+
+#contact form[type="submit"]{
+    display: block;
+}

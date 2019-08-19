@@ -1,0 +1,25 @@
+#portfolio img{
+    width: 100%;
+}
+
+.box{
+    width: 30%;
+    background:whitesmoke;
+    display: inline-block;
+    margin-left:2%;
+}
+
+.box h2{
+    padding:0;
+    margin:0;
+    background: red;
+    text-align: center;
+}
+
+.box p{
+    font-size: 14px;
+}
+
+#portfolio{
+    padding-bottom: 30px;
+}
